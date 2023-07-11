@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React.JS and laravel**
 
 - 📫 How to reach me **sirohibalouchali@gmail.com**
 
