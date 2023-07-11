@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **nomanali2727@gmail.com**
+- 📫 How to reach me **sirohibalouchali@gmail.com**
 
 - ⚡ Fun fact **Tea is the secret of my energy.**
 
