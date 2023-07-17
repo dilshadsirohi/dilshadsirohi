@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sirohibalouchali@gmail.com**
 
-- ⚡ Fun fact **Tea is the secret of my energy.**
+- ⚡ Fun fact **Traveling is the secret of my energy.**
 
 
 ## 🌐 Socials:
