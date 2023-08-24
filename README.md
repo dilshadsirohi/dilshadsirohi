@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
 <h3 align="center">A passionate JavaScript developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Advanced JavaScript & Livewire**
 
 - 💬 Ask me about **React.JS and laravel**
 
